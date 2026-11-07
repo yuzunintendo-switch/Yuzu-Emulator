@@ -1,0 +1,1 @@
+Let the shader cache warm on first pass. opengl fallback and vulkan lane share one root. Firmware stays yours.
